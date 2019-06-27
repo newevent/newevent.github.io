@@ -53,13 +53,7 @@
   id: "004"
   title: "To mock ’to mockn a mockingbird’"
   description: |
-    For a topic so fundamental to the practice of software engineering, designing test suites and measuring their efficacy remains difficult. For example, how does one determine the origin of a test failure in the codebase, or know if they’re designing testable components? Beyond that, what are common indicators of an over-tested codebase? Questions like these become more challenging given particular domains and applications, and usually require non-obvious testing strategies.
-
-    To help you answer these questions, this presentation will go through the development process of a thoroughly tested audio synthesizer and demonstrate patterns and methodologies that can help you build a better test suite. By the end of the presentation, you'll have developed a toolkit for building an effective, easy-to-use, and understandable test suite.
   outcome: |
-   - You will learn some of the foundations of functional programming
-   - You will root the techniques of modern day functional programming in these ideas from logic
-   - You will see the benefits of using a combinator approach for smoothing and describing some of the flow of logic and control in your applications
   subtype: presentation
   speakers: ["13"]
   complexity: "Intermediate"
