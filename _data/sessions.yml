@@ -219,7 +219,7 @@
   speakers: ["5"]
 -
   id: "023"
-  title: "Bringing Robinhood Stock Ticker to Tinder"
+  title: "How Robinhood's Stock Ticker Inspired Tinder"
   description: |
    Tinder's famous LikesYou feature has a golden pill view that shows the number of swipe rights a particular user receives while using the app. Inspired by Robinhood's stock ticker, Tinder has recently upgraded their pill view to have similar sweet scrolling animation. However, since the pill view had letters along with digits, it faced different set of problems. The session will explain how this unique ticker view has been implemented.Through this talk, you will be able to understand what it takes to implement a tickerView like the one from Robinhood and how Tinder has solved the unique set of challenges due to implementing scrolling digits and letters in a single view.
   outcome: |
