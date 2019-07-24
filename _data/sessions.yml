@@ -9,7 +9,7 @@
 -
   id: "503"
   title: "Lunch"
-  place: "Dining room"
+  place: "Hall"
   description: ""
   service: true
   speakers: []
@@ -308,8 +308,8 @@
 
     It is time to bring the accessibility levels of your app up to eleven!
   outcome: |
-   - UIAccessibility & VoiceOver: from zero to pro
-   - How Adaptive User Interfaces with Dynamic types & Large Content Viewer works
+   - UIAccessibility and VoiceOver: from zero to pro
+   - How Adaptive User Interfaces with Dynamic types and Large Content Viewer works
    - And more: Smart Inverted Colours, Voice Control, Switch Control, etc.
   subtype: presentation
   complexity: "Beginner"
@@ -331,7 +331,7 @@
   id: "031"
   title: "SwiftUI: Declarative UI development for the modern era"
   description: |
-    This talk will introduce the new SwiftUI framework and will provide an overview of how it is used to declaratively build user interfaces across all of the Apple platforms. Emphasis will be given on how user-interface code can be shared between platforms, from the smallest watchOS, through iPhoneOS/iPadOS, and up to macOS & tvOS.
+    This talk will introduce the new SwiftUI framework and will provide an overview of how it is used to declaratively build user interfaces across all of the Apple platforms. Emphasis will be given on how user-interface code can be shared between platforms, from the smallest watchOS, through iPhoneOS/iPadOS, and up to macOS and tvOS.
   outcome: |
     The attendees will have enough knowledge to start developing apps using the SwiftUI framework.
   subtype: presentation
@@ -381,7 +381,7 @@
   id: "036"
   title: "Going one step further into ARKit with CoreML and Turi Create"
   description: |
-    ARKit itself seems to have very limited functionalities. However, I extended what ARKit can do with CoreML when I developed my first AR app, Notable Me(https://itunes.apple.com/kr/app/notable-me/id1453810473?l=en&mt=8). It got featured on ProductHunt(https://www.producthunt.com/posts/notable-me). I will share how I developed this AR app, so other iOS developers can also come up with creative ideas to use ARKit and CoreML. Also, I will share how a mobile developer, who doesn't know how to use Tensorflow, can create custom ML models using Turi Create, Apple's open source library to easily create mlmodels.
+    ARKit itself seems to have very limited functionalities. However, I extended what ARKit can do with CoreML when I developed my first AR app, Notable Me(https://itunes.apple.com/kr/app/notable-me/id1453810473). It got featured on ProductHunt(https://www.producthunt.com/posts/notable-me). I will share how I developed this AR app, so other iOS developers can also come up with creative ideas to use ARKit and CoreML. Also, I will share how a mobile developer, who doesn't know how to use Tensorflow, can create custom ML models using Turi Create, Apple's open source library to easily create mlmodels.
   outcome: |
     - How machine learning frameworks such as CoreML and MLKit can enrich ARKit app.
     - How to create and fine-tune ML models using Turi Create, even without comprehensive knowledge of machine learning
