@@ -1,7 +1,7 @@
 -
   id: "307"
   title: "Coffee Break"
-  place: "Hall"
+  place: "Sponsors' lobby (2nd floor)"
   service: true
   description: "The best time to talk with speakers and attendees"
   speakers: []
@@ -9,14 +9,14 @@
 -
   id: "503"
   title: "Lunch"
-  place: "Hall"
+  place: "Sponsors' lobby (2nd floor)"
   description: ""
   service: true
   speakers: []
   subtype: meta
 -
   id: "504"
-  title: "Registrations"
+  title: "Registrations and badges"
   place: "Entrance"
   description: ""
   service: true
@@ -517,6 +517,7 @@
 -
   id: "888"
   title: "Opening Remarks"
+  place: "Virginia Wimberly Theatre"
   description: "Welcome to SwiftFest! Start the day with a few opening remarks and announcements and an overview of the vision and motivations of SwiftFest."
   subtype: presentation
   speakers: ["36"]
