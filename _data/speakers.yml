@@ -70,16 +70,15 @@
     - {name: "github", link: "https://github.com/seanrolszewski/muter"}
 -
   id: "5"
-  name: "David"
-  surname: "Okun"
-  title: "Developer Advocate"
-  company: "IBM"
+  name: "Alicia"
+  surname: "Carr"
+  title: "iOS Engineer"
   bio: |
-    David Okun works for IBM and teaches developers how to use Swift on the server, as well as other AI technologies. He is a writer and author for (link: http://raywenderlich.com) raywenderlich.com, and leads the recently formed Server-side Swift team there.
-  thumbnailUrl: DavidOkun.jpg
+    Alicia is the first woman of color self taught mobile developer to create a domestic violence app Purple Evolution, Inc(PEVO) dedicated to helping victims escape abuse. She used her acquired skills as a developer to make a difference. Alicia also dedicated her time to empowering women in tech with Women Who Code, she has received several major acknowledgment from Apple at WWDC15 and WWDC16 being the first black woman to be in an Apple 2016 new beginnings video and GitHub in there I am a developer video.
+  thumbnailUrl: AliciaCarr.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/dokun24"}
+    - {name: "twitter", link: "https://twitter.com/Fineblkwoman"}
 -
   id: "6"
   name: "Rob"

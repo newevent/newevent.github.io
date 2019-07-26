@@ -25,7 +25,7 @@
 -
   id: "001"
   title: "Keynote: Clean Agile"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
     This talk is about Agile.  What it was, what it is, and what it will be.  This is a back-to-basics talk that covers the history of Agile, what motivated it, and what has happened to it since.  The talk covers the basic practices of Agile, and compares and contrasts those practices with the current menagerie of Agile processes.
   outcome: |
@@ -37,14 +37,14 @@
 -
   id: "002"
   title: "Keynote: Programming with Purpose"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: "Purpose comes in all sizes, big and small. My small purpose is to get through delivering this talk without embarrassing myself. My big purpose is to help as many people as I can in small ways every day. Notice I said small ways. Why small ways? Because the biggest moments in life tend to happen on the way to your plans. Think about the most significant moments in your life. The pivotal points that changed everything. If you’ve ever fallen in love, there’s a good chance that you never planned for it to happen on the day it did. And later... if it didn’t work out, I bet you didn’t plan that either. This is not to discount plans or goals. I firmly believe in having a plan and setting a destination before you embark on your journey. Goals are necessary. Sort of like the bread on a sandwich. The goals hold it all together but the best parts are of the the middle."
   subtype: presentation
   speakers: ["3"]
 -
   id: "003"
   title: "SwiftUI Animations and Gestures (4h)"
-  place: "Black Box Theatre"
+  place: "Black Box Theater"
   description: |
     Take your static design to the next level and build real apps with the simplicity of a prototyping tool. The best way for beginners to learn code, and the most efficient way for developers to learn design.
     This workshop is made for designers and developers who are passionate about collaborating and building real apps for iOS and macOS. It's beginner-friendly, but it's also packed with design tricks and efficient workflows for building great user interfaces and animated interactions.
@@ -71,7 +71,7 @@
 -
   id: "004"
   title: "To mock ’to mock a mockingbird’"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
     Did you ever notice that there’s no “fun” in Object-Oriented or Protocol-Oriented programming but that functional programming starts with "fun"? In this fast-paced talk we don’t emphasize functional programming because it’s good for you - we look at games and puzzles that go back nearly one hundred years to the invention of combinators. Don’t worry, we’ll get to the useful application part at the end - but let’s begin by just playing.
   outcome: |
@@ -84,7 +84,7 @@
 -
   id: "005"
   title: "How to Include Machine Learning in your iOS App"
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: "Machine learning models don’t deliver value on their own. They need to be integrated into a product to improve user experience and fulfill a business need. Fortunately, this is a particularly exciting time to include ML in your mobile apps, thanks to a wealth of new libraries and technologies in this space."
   outcome: |
    - Why you should include ML in your mobile devices
@@ -98,7 +98,7 @@
 -
   id: "006"
   title: "The Reactive Code That Broke My Brain and Changed My Mind (just in time for Combine)"
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
    After almost five years of working with ReactiveCocoa and RxSwift, I still felt like reactive (Rx) programming had limited use in my work. But with Swift and RxSwift maturing, I was looking for a way to try it more.
    This spring, a colleague and I decided to use it whole-heartedly on a project. We established some guidelines that led us to an extremely clean Model-View-ViewModel implementation with a declarative ViewController and stateless ViewModel.
@@ -120,7 +120,7 @@
 -
   id: "008"
   title: "Code Golfing"
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
    Code Golfing is a fun type of recreational programming where “players” strive to achieve the shortest possible source code that implements certain functionality. Using Swift to Code Golf is fun in itself, but there is a lot we can learn from this exercise. Join me in exploring practical takeaways from thinking about each line of Swift code we write!
   outcome: |
@@ -134,7 +134,7 @@
 -
   id: "009"
   title: "Straying From the Happy Path: Taking Control of Errors in Swift"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
    Have you ever seen a code comment saying “this should never happen”? Have you ever wondered what would happen if it did? Swift has a diverse set of error-handling capabilities, from using `throw` to send errors up the stack to using a `Result` to handle errors in asynchronous methods. In this talk, we’ll look at the landscape of handling errors in Swift, create new ways of expressing and handling them, and show how even the most impossible code-level situations can have 100% test coverage.
   outcome: |
@@ -148,27 +148,25 @@
 -
   id: "013"
   title: "To the Core of Core NFC"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
-   NFC has been around for a while and we use it every day in things like Apple Pay but how does it work and what features are actually available for developers to use? Until recently NFC was pretty limited on iOS and devs used to struggle to find use cases they could implement in their apps. NFC itself has plenty of applications but we were not able to take full advantage of them because of these limitations but now that Apple has announced tag writing support, the game completely changes. Some of your Android friends might tell you: “Well we have had that for a long time!” and yeah it’s true, but without Apple opening their APIs it was hard for companies to find a compelling case to build apps where only one platform was going to be supported.
+   NFC has been around for a while and we use it every day in things like Apple Pay but how does it work and what features are actually available for developers to use? Until recently NFC was pretty limited on iOS and devs used to struggle to find use cases they could implement in their apps. NFC itself has plenty of applications but we were not able to take full advantage of them because of these limitations but now that Apple has announced tag writing support, we have more possibilities! Some of your Android friends might tell you: “Well we have had that for a long time!” and yeah it’s true, but without Apple opening their APIs it was hard for companies to find a compelling case to build apps where only one platform was going to be supported.
 
-
-   In this talk, you will learn the basics of Near Field Communication such as tagging, different technologies, and specifications. We will also take a peak to these new features and implement some of them in a quick example and other possible applications.
-
+   In this talk, you will learn the basics of Near Field Communication such as tagging, different types of tags and their specifications. We will also take a peak to these new features and implement some of them in a quick example.
 
    Join me to see why I think learning about the new Core NFC features are important and the long-lasting implications they will have around the world.
 
   outcome: |
-   - Basics of Near Field communication and tagging, what is NFC? NDEF and the new supported specifications.
-   - Basics of the new Core NFC features and an example of using these features to learn read and write from a tag.
-   - The importance of the latest announcements and why these will have long-lasting implications around the world. Countries like Japan and Germany are already thinking to use this technology to convert their national IDs.
+   - Basics of Near Field Communication and tagging
+   - Basics of the new Core NFC features and an example of using tag writing feature
+   - The importance of the latest announcements
   subtype: presentation
   speakers: ["25"]
   complexity: "Intermediate"
 -
   id: "015"
   title: "Don't Join a Cult. Learn Mindfulness."
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
    Perfectionism. Fear. Guilt. Self-Doubt. These tricky demons can shatter our productivity, silence our best ideas, and block us from our greatest potential. Take back the reins and discover what you’re really capable of. In this talk, you’ll learn the basics of mindfulness through true stories of reptilian cults, imprisoned stalkers, and a very unusual dinner guest.
   outcome: |
@@ -179,7 +177,7 @@
 -
   id: "014"
   title: "Testing. Testing. One. Two."
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
    Testing is critical, but can be difficult. In this talk we will explore using Swift’s protocol oriented programming for User Interface testing to create light-weight interfaces that are composed of user behavior and application state. We will discuss the pro’s and con’s of writing tests this way. We will also discuss options for further development of the technique. This talk isn’t just for testers. This talk is also for product managers, designers, developers, and customers! As a use case, will will walk through logging into and using a movie rating app. We will build up a protocol that allows tests to be read as a set of instructions for an actual user. When we are done, we will have a better understanding of behavior driven development, UI testing, and protocol oriented programming in Swift.
   outcome: |
@@ -192,7 +190,7 @@
 -
   id: "019"
   title: "What Happens When iOS Turns Against You"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
    Follow me on a journey of peril and intrigue as I walk you through the most difficult bug of my career. The many frameworks of Cocoa Touch are the cornerstone of modern iOS apps. But what happens when the building blocks start to work against you? I'll take you through the lifecycle of a bug we encountered at Tinder on the eve of the launch of iOS 12. To this day, it is one of the most puzzling and challenging issues I've encountered. The solution to which has wide-ranging implications in any app that utilizes NSUserDefaults. At the end of this session, you will learn steps you can take to avoid a devastating pitfall in Foundation. This issue was discovered in Tinder and I will walk you through a possible solution should you encounter it in your own apps as well.
   outcome: |
@@ -203,7 +201,7 @@
 -
   id: "020"
   title: "Protocol Oriented Programming"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
    They said Swift is “protocol oriented,” so you wrote protocols. But you wanted them to be generic, so you added associated types. But your collections broke, so you added type-erasers. But your “as”-casts broke, so you switched to Any. But then everything broke, so you read about Mirror. And the tears began. Why did it have to be so hard to make an array?
 
@@ -220,21 +218,22 @@
   speakers: ["6"]
 -
   id: "021"
-  title: "Empowering Your Ecosystem"
-  place: "Roberts Studio Theatre"
+  title: "The challenges in building a social app using swift"
+  place: "Roberts Studio Theater"
   description: |
-   The ecosystem of the Swift programming language is at an interesting inflection point. David will talk about his take on some ways forward, as well as how to embrace the opportunity it has to push Swift’s footprint on the software development world into the stratosphere.
+   Anyone can create and change the way things are by using tech to solve a problem in the community. How I, as a woman seeing my female family members and friends being abused, decided to do something about it. That is why I created a social app - PEVO - that can change the world.
   outcome: |
-    - How other software communities operate and contribute to open source
-    - The key differences between Swift and other communities that makes this inflection point different
-    - How you can create Swift packages today for any platform to boost the community
+    - The challenges of building a social app
+    - Helping others by understanding the problem
+    - Keeping the solution to the problem simple thinking of the people using the app
+    - Research what your community need
   subtype: presentation
   complexity: "Intermediate"
   speakers: ["5"]
 -
   id: "023"
   title: "How Robinhood's Stock Ticker Inspired Tinder"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
    Tinder's famous LikesYou feature has a golden pill view that shows the number of swipe rights a particular user receives while using the app. Inspired by Robinhood's stock ticker, Tinder has recently upgraded their pill view to have similar sweet scrolling animation. However, since the pill view had letters along with digits, it faced different set of problems. The session will explain how this unique ticker view has been implemented.Through this talk, you will be able to understand what it takes to implement a tickerView like the one from Robinhood and how Tinder has solved the unique set of challenges due to implementing scrolling digits and letters in a single view.
   outcome: |
@@ -247,7 +246,7 @@
 -
   id: "024"
   title: "Voiceover On..."
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
    In a world obsessed with user experience, how much are we thinking about the experience we provide for our visually impaired users? I’ve always strived to make my apps accessible, but merely providing access isn't enough. We should be aspiring to provide an exceptional experience for everyone. I wanted to understand what makes for truly great accessible design, so I turned VoiceOver on for a week...
 
@@ -263,7 +262,7 @@
 -
   id: "025"
   title: "So you want to build an ARKit app (1h)"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
     ARKit has shown how AR can be integrated into apps to make them more engaging and fun. Although AR has mainly been introduced by games such as Pokémon Go!, it has many practical applications. If you are thinking about using ARKit in your app, this talk is for you.
     Last year I co-authored the ARKit by Tutorials book, and developed a couple of ARKit apps. This talk covers challenges I experienced building these apps such as ensuring good app performance, handling problematic scenarios and improving plane detection. Learn how to use ARKit to its full potential, keep your AR apps performant and deliver a polished end-user experience.
@@ -277,7 +276,7 @@
 -
   id: "026"
   title: "Encoding and Decoding in Swift"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
    Ever wonder what’s actually going on inside JSONEncoder and JSONDecoder? Why doesn't JSONEncoder conform to the Encoder protocol? What's a CodingKey, and what are all of those "containers" for?
    This talk will be a deep dive into encoding and decoding in Swift: what all of the related protocols are, how they fit together, and how to use them. You will come away from this talk ready to customize how your Swift types are encoded and decoded, and with the knowledge necessary to start writing encoders and decoders of your own.
@@ -293,14 +292,15 @@
 -
   id: "027"
   title: "You Belong With Me: An Extension Love Story"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
     Extensions allow you to add functionality to a previously existing class, structure, enumeration, or protocol. This gives you the power to add new behavior to your own code, third-party libraries, and even Apple frameworks.  While this sounds simple, extensions allow you to up your Swift game and amplify your code in so many ways!  In this talk, we will explore using extensions to have cleaner code, conform to protocols, add new initializers, extend protocols, and so much more.  We’ll also show off some extensions that you didn’t even know that you wanted.  Fall in love with extensions today!
   outcome: |
    - What extensions are and how to add them to your code
-   - How to use extensions for cleaner code and conforming to protocols
-   - How to use extensions to add a new initializer to a class
-   - How to use an extension to add methods to a protocol
+   - Using extensions for cleaner code and conforming to protocols
+   - Using extensions to add a new initializer to a class or struct
+   - Using extensions to add new methods to a protocol
+   - Using extensions to add computed properties
    - Fun places to add convenience methods
   subtype: presentation
   complexity: "intermediate"
@@ -308,7 +308,7 @@
 -
   id: "028"
   title: "Recognize text, facial features, and objects in images with ML Kit for Firebase (1.5h)"
-  place: "Black Box Theatre"
+  place: "Black Box Theater"
   description: "ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package. Whether you're new or experienced in machine learning, you can easily implement the functionality you need in just a few lines of code. There's no need to have deep knowledge of neural networks or model optimization to get started. In this codelab we will build a sample app using Firebase MLKit for iOS."
   outcome: |
     - How to use the ML Kit Text Recognition API to detect text in images
@@ -323,7 +323,7 @@
 -
   id: "029"
   title: "Accessibility -> Up to 11!"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
     Let’s go together on a journey to not just create accessible apps, but awesome experiences that absolutely all your users will be able to use and love. How to deal with Dynamic Types and Auto Layout so your UI adapts to any font size the user may prefer; What happens with those hidden actions, which are unveiled with a gesture, when using the app with VoiceOver; What to do when the user wants inverted colors, or reduce motion, or reduce transparency…? Do you know what the Rotor is and what it is used for? And we’ll have to test all this! Let’s find out how.
 
@@ -338,7 +338,7 @@
 -
   id: "030"
   title: "Splitting Views - The Nitty-Gritty of Container View Controllers"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
     When does a `UIView` need a `UIViewController`? The most common answer is to keep one VC per-screen, but the benefits of a ViewController can be felt by any view of any size. In this talk we will take a look at how and why to use Container View Controllers in your apps and discuss best practices and tips for keeping things manageable no matter how many ViewControllers are on screen.
   outcome: |
@@ -352,7 +352,7 @@
 -
   id: "031"
   title: "SwiftUI: Declarative UI development for the modern era"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
     This talk will introduce the new SwiftUI framework and will provide an overview of how it is used to declaratively build user interfaces across all of the Apple platforms. Emphasis will be given on how user-interface code can be shared between platforms, from the smallest watchOS, through iPhoneOS/iPadOS, and up to macOS and tvOS.
   outcome: |
@@ -364,7 +364,7 @@
 -
   id: "033"
   title: "Free Cocoa: hack mobile app and skim the cream"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
     With a set of few simple tools and a bit of enthusiasm, mobile app binary can be read like an open book. My presentation describes practical attack on an iOS app. Realizing how easy the attack can be, is the first step to improve security of your apps.
   outcome: |
@@ -379,7 +379,7 @@
 -
   id: "034"
   title: "Remote Connections: Fostering Relationships in Distributed Teams"
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
     It takes more than good internet to be connected to your team when you're working remotely. When you don't share a physical space with your colleagues, you miss out on interpersonal connections which otherwise come for free. This session will cover why these connections are important, and how you and your organization can work to build them.
   outcome: |
@@ -392,7 +392,7 @@
 -
   id: "035"
   title: "How We Scaled App Development at Wayfair with 100+ app developers"
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
     App development is inherently hard at scale.  On one side, app developers have to create new features that users can use, which in turn helps the business make money. On the other side, app developers need to keep apps fast, consistent, fluid, fun, modular and everything users expect any app to be.  A small app team can do both at once, but as the team scales, keeping focus on these two things equally in a connected way is actually hard, especially at Wayfair with over a hundred app developers and multiple apps across iOS and Android and business areas.  Come listen to our journey so you can learn from how we organized app teams to scale to new heights in order to deliver successful “appy” apps!
   outcome: |
@@ -406,7 +406,7 @@
 -
   id: "036"
   title: "Going one step further into ARKit with CoreML and Turi Create"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
     ARKit itself seems to have very limited functionalities. However, I extended what ARKit can do with CoreML when I developed my first AR app, Notable Me(https://itunes.apple.com/kr/app/notable-me/id1453810473). It got featured on ProductHunt(https://www.producthunt.com/posts/notable-me). I will share how I developed this AR app, so other iOS developers can also come up with creative ideas to use ARKit and CoreML. Also, I will share how a mobile developer, who doesn't know how to use Tensorflow, can create custom ML models using Turi Create, Apple's open source library to easily create mlmodels.
   outcome: |
@@ -418,11 +418,11 @@
 -
   id: "037"
   title: "What time is it? (Seriously, how does your phone know that) (.5h)"
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
    When you turn on your phone's screen, there's only one thing that's always there every time, reassuring you that everything is in order: the time. But how does your phone know what time it is?
 
-   Through the ages, the question of ""what time is it"" has gone from inconceivable to mildly interesting to extremely difficult to trivial. Let's look at how it got here and how it works today. We'll cover how anyone knows what time it is, how computers think about time, and how your phone stays up to date(/time).
+   Through the ages, the question of "what time is it" has gone from inconceivable to mildly interesting to extremely difficult to trivial. Let's look at how it got here and how it works today. We'll cover how anyone knows what time it is, how computers think about time, and how your phone stays up to date(/time).
   subtype: presentation
   outcome: |
     You'll learn about an important but oft-overlooked technology, timekeeping. Plus you won't look at your lock screen the same way again.
@@ -430,7 +430,7 @@
 -
   id: "038"
   title: "Cut Corners to Accomplish More: How a minimally viable app, became #1 of Health and Fitness apps (.5h)"
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
    We developers love building fully featured apps and we build them the best way we know; but sometimes this leads us to toil for too long on apps that could have succeeded just as well, with insanely less effort and time.
 
@@ -445,7 +445,7 @@
 -
   id: "039"
   title: "Mutation Testing: An Automated Technique for Better Tests"
-  place: "Roberts Studio Theatre"
+  place: "Roberts Studio Theater"
   description: |
    As a code base grows, and its test suite covers even more test cases, an important question arises: how do we know our tests are covering every case? Even when practicing test-driven development, some program branches inevitably become omitted from our test suites, a once-effective testing strategy now fails to capture every case, and team churn causes a loss of context on why certain tests were written the way they were. 
 
@@ -471,7 +471,7 @@
 -
   id: "032"
   title: "Keynote: Make room for all, not war!: Inclusion means all y'all"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: |
    After 18 years of ups and downs in the tech industry, Diana Rodriguez has seen good, bad and ugly. Leading worldwide community organisation for a non-profit has been an interesting experience where she found herself advocating for the exact same things she had to stand up for 18 years ago. In a sincere and honest talk about diversity, inclusion and evolution in the tech ecosystem, this isn't a SJW rant. It's an account of the mishaps of a woman in tech who decided to make a difference.
    (what do you reckon?)
@@ -517,7 +517,7 @@
 -
   id: "888"
   title: "Opening Remarks"
-  place: "Virginia Wimberly Theatre"
+  place: "Virginia Wimberly Theater"
   description: "Welcome to SwiftFest! Start the day with a few opening remarks and announcements and an overview of the vision and motivations of SwiftFest."
   subtype: presentation
   speakers: ["36"]
