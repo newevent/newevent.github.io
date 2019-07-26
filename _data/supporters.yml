@@ -4,7 +4,7 @@
     - {name: "Fireside Swift", description: "Fireside Swift", link: "https://www.firesideswift.com", imageUrl: "FiresideSwift.jpg"}
     - {name: "The Learn Swift Podcast", description: "The Learn Swift Podcast", link: "https://learnswift.fireside.fm", imageUrl: "LearnSwiftPodcast.jpg"}
     - {name: "Swift Coders", description: "Swift Coders", link: "https://swiftcoders.podbean.com", imageUrl: "SwiftCoders.png"}
-    - {name: "SwiftCraft", description: "SwiftCraft", link: "https://emanleet.com", imageUrl: "SwiftCraft.jpg"}
+    - {name: "SwiftCraft", description: "SwiftCraft", link: "https://podcasts.apple.com/us/podcast/swiftcraft-podcast/id1342090247", imageUrl: "SwiftCraft.jpg"}
 -
   group: "Meetups"
   elements:
