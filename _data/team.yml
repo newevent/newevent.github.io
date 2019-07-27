@@ -4,7 +4,7 @@
   surname: "Dias"
   title: "Community lead"
   thumbnailUrl: MattDias.jpg
-  type: team
+  type: volunteer
   bio: |
    Matt Dias is a Senior iOS Engineer at Chewy. His background extends from building iOS apps, using Objective-C and Swift, to building the backends they are fed data from. Over the past year, Matt has been growing the Boston Swift community by co-organizing Learn Swift Boston, where he and many others help developers of all skill levels learn to build software using Swift.
   social:
@@ -96,7 +96,7 @@
   thumbnailUrl: alexanderDimasi.jpg
   type: volunteer
   social: []
-  -
+-
   id: "11"
   name: "Mike"
   surname: "Phelan"
@@ -104,7 +104,7 @@
   thumbnailUrl: mphelan.png
   type: volunteer
   social: []
-  -
+-
   id: "14"
   name: "Iman"
   surname: "Serag"
@@ -112,7 +112,7 @@
   thumbnailUrl: ImanSerag.jpg
   type: volunteer
   social: []
-  -
+-
   id: "15"
   name: "Deirdre"
   surname: "Carney"
