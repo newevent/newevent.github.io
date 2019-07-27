@@ -1,5 +1,15 @@
 -
   id: "0"
+  name: "Giorgio"
+  surname: "Natili"
+  title: "Idea maker, team lead"
+  thumbnailUrl: GiorgioNatili.jpg
+  type: team
+  social:
+    - {name: "twitter", link: "https://twitter.com/giorgionatili"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
+-
+  id: "1"
   name: "Matt"
   surname: "Dias"
   title: "Community lead"
@@ -11,7 +21,7 @@
     - {name: "twitter", link: "https://twitter.com/mdiasdev"}
     - {name: "github", link: "https://github.com/mdiasdev"}
 -
-  id: "1"
+  id: "2"
   name: "Luis"
   surname: "Alberto"
   title: "Mobile developer"
@@ -20,16 +30,6 @@
   social:
     - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
--
-  id: "2"
-  name: "Giorgio"
-  surname: "Natili"
-  title: "Idea maker, team lead"
-  thumbnailUrl: GiorgioNatili.jpg
-  type: team
-  social:
-    - {name: "twitter", link: "https://twitter.com/giorgionatili"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
 -
   id: "3"
   name: "Alicia"
