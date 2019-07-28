@@ -34,7 +34,7 @@
   id: "3"
   name: "Alicia"
   surname: "Carr"
-  title: "Staff"
+  title: "Co-organizer"
   thumbnailUrl: AliciaCarr.jpg
   type: team
   social:
@@ -89,6 +89,16 @@
   type: volunteer
   social: []
 -
+  id: "9"
+  name: "Lucy"
+  surname: "Monahan"
+  title: "Speakers liaison"
+  thumbnailUrl: LucyMonahan.jpg
+  type: team
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
+    - {name: "twitter", link: "https://twitter.com/sofetching"}
+-
   id: "10"
   name: "Alexander"
   surname: "DiMasi"
@@ -121,3 +131,20 @@
   type: volunteer
   social:
     - {name: "twitter", link: "https://twitter.com/realcurlywurly"}
+-
+  id: "16"
+  name: "Harry"
+  surname: "Grillo"
+  title: "Social Media Manager"
+  thumbnailUrl: HarryGrillo.jpg
+  type: volunteer
+  social:
+    - {name: "twitter", link: "https://twitter.com/redbassett"}
+  -
+  id: "17"
+  name: "Mark"
+  surname: "Pralat"
+  title: "Team Player"
+  thumbnailUrl: MarkPralat.jpg
+  type: volunteer
+  social: []
