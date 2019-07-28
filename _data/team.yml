@@ -22,25 +22,15 @@
     - {name: "github", link: "https://github.com/mdiasdev"}
 -
   id: "2"
-  name: "Luis"
-  surname: "Alberto"
-  title: "Mobile developer"
-  thumbnailUrl: LuisAlberto.jpg
-  type: volunteer
-  social:
-    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
--
-  id: "3"
   name: "Alicia"
   surname: "Carr"
-  title: "Staff"
+  title: "Co-organizer"
   thumbnailUrl: AliciaCarr.jpg
   type: team
   social:
     - {name: "twitter", link: "https://twitter.com/Fineblkwoman"}    
 -
-  id: "4"
+  id: "3"
   name: "Andres"
   surname: "Pineda"
   title: "Volunteers coordinator"
@@ -50,6 +40,16 @@
     - {name: "twitter", link: "https://twitter.com/ajpinedam"}
     - {name: "github", link: "https://github.com/ajpinedam"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
+-
+  id: "4"
+  name: "Luis"
+  surname: "Alberto"
+  title: "Mobile developer"
+  thumbnailUrl: LuisAlberto.jpg
+  type: volunteer
+  social:
+    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
 -  
   id: "5"
   name: "Garric"
@@ -89,6 +89,16 @@
   type: volunteer
   social: []
 -
+  id: "9"
+  name: "Lucy"
+  surname: "Monahan"
+  title: "Speakers liaison"
+  thumbnailUrl: LucyMonahan.jpg
+  type: volunteer
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
+    - {name: "twitter", link: "https://twitter.com/sofetching"}
+-
   id: "10"
   name: "Alexander"
   surname: "DiMasi"
@@ -123,6 +133,23 @@
     - {name: "twitter", link: "https://twitter.com/realcurlywurly"}
 -
   id: "16"
+  name: "Harry"
+  surname: "Grillo"
+  title: "Social Media Manager"
+  thumbnailUrl: HarryGrillo.jpg
+  type: volunteer
+  social:
+    - {name: "twitter", link: "https://twitter.com/redbassett"}
+-
+  id: "18"
+  name: "Mark"
+  surname: "Pralat"
+  title: "Team Player"
+  thumbnailUrl: MarkPralat.jpg
+  type: volunteer
+  social: []
+-
+  id: "18"
   name: "Lucy"
   surname: "Monahan"
   title: "Team Player"
@@ -130,3 +157,4 @@
   type: volunteer
   social:
     - {name: "twitter", link: "https://twitter.com/sofetching"}
+

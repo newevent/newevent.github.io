@@ -1,6 +1,6 @@
 <!-- Begin Team List-->
-{% assign ringleader = site.data.team | where: 'id', '4' %}
-{% assign all_team_without_ringleader = site.data.team | where_exp: 'person', 'person.id != "4"' | sort: "surname" %}
+{% assign ringleader = site.data.team | where: 'id', '0' %}
+{% assign all_team_without_ringleader = site.data.team | where_exp: 'person', 'person.id != "0"' | sort: "surname" %}
 {% assign sortedTeam = ringleader | concat: all_team_without_ringleader %}
 <section id="team" class="team">
     <div class="content-wrapper">
