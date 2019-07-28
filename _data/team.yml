@@ -1,5 +1,5 @@
 -
-  id: "4"
+  id: "0"
   name: "Giorgio"
   surname: "Natili"
   title: "Idea maker, team lead"
@@ -22,16 +22,6 @@
     - {name: "github", link: "https://github.com/mdiasdev"}
 -
   id: "2"
-  name: "Luis"
-  surname: "Alberto"
-  title: "Mobile developer"
-  thumbnailUrl: LuisAlberto.jpg
-  type: volunteer
-  social:
-    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
--
-  id: "3"
   name: "Alicia"
   surname: "Carr"
   title: "Co-organizer"
@@ -40,7 +30,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/Fineblkwoman"}    
 -
-  id: "0"
+  id: "3"
   name: "Andres"
   surname: "Pineda"
   title: "Volunteers coordinator"
@@ -50,6 +40,16 @@
     - {name: "twitter", link: "https://twitter.com/ajpinedam"}
     - {name: "github", link: "https://github.com/ajpinedam"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
+-
+  id: "4"
+  name: "Luis"
+  surname: "Alberto"
+  title: "Mobile developer"
+  thumbnailUrl: LuisAlberto.jpg
+  type: volunteer
+  social:
+    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
 -  
   id: "5"
   name: "Garric"
@@ -94,7 +94,7 @@
   surname: "Monahan"
   title: "Speakers liaison"
   thumbnailUrl: LucyMonahan.jpg
-  type: team
+  type: volunteer
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
     - {name: "twitter", link: "https://twitter.com/sofetching"}
@@ -141,7 +141,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/redbassett"}
 -
-  id: "17"
+  id: "18"
   name: "Mark"
   surname: "Pralat"
   title: "Team Player"
