@@ -1,5 +1,5 @@
 -
-  id: "0"
+  id: "4"
   name: "Giorgio"
   surname: "Natili"
   title: "Idea maker, team lead"
@@ -40,7 +40,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/Fineblkwoman"}    
 -
-  id: "4"
+  id: "0"
   name: "Andres"
   surname: "Pineda"
   title: "Volunteers coordinator"
