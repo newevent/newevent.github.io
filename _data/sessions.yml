@@ -261,7 +261,7 @@
   speakers: ["20"]
 -
   id: "025"
-  title: "So you want to build an ARKit app (1h)"
+  title: "So you want to build an ARKit app"
   place: "Virginia Wimberly Theater"
   description: |
     ARKit has shown how AR can be integrated into apps to make them more engaging and fun. Although AR has mainly been introduced by games such as Pokémon Go!, it has many practical applications. If you are thinking about using ARKit in your app, this talk is for you.
