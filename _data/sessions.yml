@@ -417,7 +417,7 @@
   speakers: ["33"]
 -
   id: "037"
-  title: "What time is it? (Seriously, how does your phone know that) (.5h)"
+  title: "What time is it? (Seriously, how does your phone know that)"
   place: "Roberts Studio Theater"
   description: |
    When you turn on your phone's screen, there's only one thing that's always there every time, reassuring you that everything is in order: the time. But how does your phone know what time it is?
@@ -429,7 +429,7 @@
   speakers: ["34"]
 -
   id: "038"
-  title: "Cut Corners to Accomplish More: How a minimally viable app, became #1 of Health and Fitness apps (.5h)"
+  title: "Cut Corners to Accomplish More: How a minimally viable app, became #1 of Health and Fitness apps"
   place: "Roberts Studio Theater"
   description: |
    We developers love building fully featured apps and we build them the best way we know; but sometimes this leads us to toil for too long on apps that could have succeeded just as well, with insanely less effort and time.
