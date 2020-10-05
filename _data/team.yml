@@ -22,56 +22,56 @@
     - {name: "github", link: ""}
 -
   id: "2"
-  name: "Alicia"
-  surname: "Carr"
-  title: "Co-organizer"
+  name: "Achmad"
+  surname: "Syafaat"
+  title: "Conference Committee"
   thumbnailUrl: owasp_logo.png
   type: team
   social:
-    - {name: "twitter", link: "https://twitter.com/Fineblkwoman"}    
+    - {name: "twitter", link: ""}    
 -
   id: "3"
-  name: "Andres"
-  surname: "Pineda"
+  name: "Vina"
+  surname: "Panduwinata"
   title: "Volunteers coordinator"
   thumbnailUrl: owasp_logo.png
   type: team
   social:
-    - {name: "twitter", link: "https://twitter.com/ajpinedam"}
-    - {name: "github", link: "https://github.com/ajpinedam"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
 -
   id: "4"
-  name: "Luis"
-  surname: "Alberto"
+  name: "Ali"
+  surname: "Kaharu"
   title: "Mobile developer"
   thumbnailUrl: owasp_logo.png
   type: volunteer
   social:
-    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
 -  
   id: "5"
-  name: "Garric"
-  surname: "Nahapetian"
-  title: "iOS Engineer"
-  company: "Tinder"
+  name: "Prof. Dr. Hoga"
+  surname: "Saragih,ST,MT."
+  title: "Host"
+  company: "bakrie university"
   bio: |
-   Garric is an iOS Engineer at Tinder as well as the host of The SwiftCoders Podcast and the founder of the Learn Swift {CITY} group of meet ups.
+   Good People
   thumbnailUrl: owasp_logo.png
   rockstar: false
   type: mc
   social:
-    - {name: "twitter", link: "https://twitter.com/garricn"}
+    - {name: "twitter", link: ""}
 -
   id: "6"
-  name: "Dakota"
-  surname: "Kim"
+  name: "Hilman"
+  surname: "Aditya"
   title: "Full Stack Developer"
   thumbnailUrl: owasp_logo.png
   type: volunteer
   social:
-    - {name: "twitter", link: "https://twitter.com/skelegram"}
+    - {name: "twitter", link: ""}
 -
   id: "7"
   name: "Ari"
@@ -82,34 +82,34 @@
   social: []
 -
   id: "8"
-  name: "Jason"
-  surname: "Rafi"
+  name: "Sundoko"
+  surname: "Haryo"
   title: "Team Player"
   thumbnailUrl: owasp_logo.png
   type: volunteer
   social: []
 -
   id: "9"
-  name: "Lucy"
-  surname: "Monahan"
+  name: "Bima"
+  surname: "Bima"
   title: "Speakers liaison"
   thumbnailUrl: owasp_logo.png
   type: volunteer
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
-    - {name: "twitter", link: "https://twitter.com/sofetching"}
+    - {name: "linkedin", link: ""}
+    - {name: "twitter", link: ""}
 -
   id: "10"
-  name: "Alexander"
-  surname: "DiMasi"
+  name: "Indra"
+  surname: "Gunawan"
   title: "Team Player"
   thumbnailUrl: owasp_logo.png
   type: volunteer
   social: []
 -
   id: "11"
-  name: "Mike"
-  surname: "Phelan"
+  name: "Gumux"
+  surname: "Hijack"
   title: "Team Player"
   thumbnailUrl: owasp_logo.png
   type: volunteer
@@ -117,29 +117,29 @@
 -
   id: "14"
   name: "Iman"
-  surname: "Serag"
+  surname: "Sholeh"
   title: "Team Player"
   thumbnailUrl: owasp_logo.png
   type: volunteer
   social: []
 -
   id: "15"
-  name: "Deirdre"
-  surname: "Carney"
+  name: "Chandra"
+  surname: "saja"
   title: "Team Player"
   thumbnailUrl: owasp_logo.png
   type: volunteer
   social:
-    - {name: "twitter", link: "https://twitter.com/realcurlywurly"}
+    - {name: "twitter", link: ""}
 -
   id: "16"
-  name: "Harry"
-  surname: "Grillo"
+  name: "Faisal"
+  surname: "W"
   title: "Social Media Manager"
   thumbnailUrl: owasp_logo.png
   type: volunteer
   social:
-    - {name: "twitter", link: "https://twitter.com/redbassett"}
+    - {name: "twitter", link: ""}
 -
   id: "18"
   name: "Mark"
