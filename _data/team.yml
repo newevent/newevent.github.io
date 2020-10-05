@@ -1,130 +1,150 @@
 -
   id: "0"
-  name: "Ade"
-  surname: "Yoseman"
-  title: "Conference Chair"
-  thumbnailUrl: owasp_logo.png
+  name: "Giorgio"
+  surname: "Natili"
+  title: "Idea maker, team lead"
+  thumbnailUrl: GiorgioNatili.jpg
   type: team
   social:
-     - {name: "twitter", link: "https://twitter.com/johnleedik"
-     - {name: "linkedin", link: "https://github.com/adeyosemanputra"}
+    - {name: "twitter", link: "https://twitter.com/giorgionatili"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
 -
   id: "1"
-  name: "Prashant"
-  surname: "Kv"
-  title: "CFP Reviewer"
-  thumbnailUrl: owasp_logo.png
+  name: "Matt"
+  surname: "Dias"
+  title: "Community lead"
+  thumbnailUrl: MattDias.jpg
   type: volunteer
-  social:[]
+  bio: |
+   Matt Dias is a Senior iOS Engineer at Chewy. His background extends from building iOS apps, using Objective-C and Swift, to building the backends they are fed data from. Over the past year, Matt has been growing the Boston Swift community by co-organizing Learn Swift Boston, where he and many others help developers of all skill levels learn to build software using Swift.
+  social:
+    - {name: "twitter", link: "https://twitter.com/mdiasdev"}
+    - {name: "github", link: "https://github.com/mdiasdev"}
 -
   id: "2"
-  name: "Prof. Dr. Hoga"
-  surname: "Saragih,ST,MT."
-  title: "Conference Committee"
-  thumbnailUrl: profhugo.png
-  type: volunteer
-  social:[]
+  name: "Alicia"
+  surname: "Carr"
+  title: "Co-organizer"
+  thumbnailUrl: AliciaCarr.jpg
+  type: team
+  social:
+    - {name: "twitter", link: "https://twitter.com/Fineblkwoman"}    
 -
   id: "3"
-  name: "Vina"
-  surname: "Panduwinata"
-  title: "Conference Committee"
-  thumbnailUrl: owasp_logo.png
+  name: "Andres"
+  surname: "Pineda"
+  title: "Volunteers coordinator"
+  thumbnailUrl: AndresPineda.jpg
   type: team
-  social:[]
--   
+  social:
+    - {name: "twitter", link: "https://twitter.com/ajpinedam"}
+    - {name: "github", link: "https://github.com/ajpinedam"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pinedax/"}
+-
   id: "4"
-  name: "Gumux"
-  surname: "Hijack"
+  name: "Luis"
+  surname: "Alberto"
   title: "Mobile developer"
-  thumbnailUrl: owasp_logo.png
+  thumbnailUrl: LuisAlberto.jpg
   type: volunteer
-  social:[]
+  social:
+    - {name: "github", link: "https://github.com/luis-alberto-pena-nunez"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luis-alberto-pe%C3%B1a-nu%C3%B1ez-aa70a5103"}
 -  
   id: "5"
-  name: "Emily"
-  surname: "Berman"
-  title: "Director of Events"
-  thumbnailUrl: owasp_logo.png
-  type: team
-  social:[]
--  
+  name: "Garric"
+  surname: "Nahapetian"
+  title: "iOS Engineer"
+  company: "Tinder"
+  bio: |
+   Garric is an iOS Engineer at Tinder as well as the host of The SwiftCoders Podcast and the founder of the Learn Swift {CITY} group of meet ups.
+  thumbnailUrl: GarricNahapetian.jpg
+  rockstar: false
+  type: mc
+  social:
+    - {name: "twitter", link: "https://twitter.com/garricn"}
+-
   id: "6"
-   name: "Kelly"
-  surname: "Santalucia"
-  title: "Director of Corporate Support"
-  thumbnailUrl: owasp_logo.png
-  type: team
-  social:[]
+  name: "Dakota"
+  surname: "Kim"
+  title: "Full Stack Developer"
+  thumbnailUrl: DakotaKim.jpg
+  type: volunteer
+  social:
+    - {name: "twitter", link: "https://twitter.com/skelegram"}
 -
   id: "7"
-  name: "Dawn"
-  surname: "Aitken"
-  title: "Operations Manager"
-  thumbnailUrl: owasp_logo.png
-  type: team
+  name: "Ari"
+  surname: "Roshko"
+  title: "Team Player"
+  thumbnailUrl: AriRoshko.jpg
+  type: volunteer
   social: []
 -
   id: "8"
-  name: ""
+  name: "Jason"
   surname: "Rafi"
   title: "Team Player"
-  thumbnailUrl:  owasp_logo.png
+  thumbnailUrl: jay.jpg
   type: volunteer
   social: []
 -
   id: "9"
-  name: "Hilman"
-  surname: "Aditya"
+  name: "Lucy"
+  surname: "Monahan"
   title: "Speakers liaison"
-  thumbnailUrl:  owasp_logo.png
+  thumbnailUrl: LucyMonahan.jpg
   type: volunteer
-  social:[]
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucy-monahan-0838101/"}
+    - {name: "twitter", link: "https://twitter.com/sofetching"}
 -
   id: "10"
-  name: "RB. Sundoko Haryo"
-  surname: ""
+  name: "Alexander"
+  surname: "DiMasi"
   title: "Team Player"
-  thumbnailUrl:  owasp_logo.png
+  thumbnailUrl: alexanderDimasi.jpg
   type: volunteer
   social: []
 -
   id: "11"
-  name: "Faisal"
-  surname: ""
+  name: "Mike"
+  surname: "Phelan"
   title: "Team Player"
-  thumbnailUrl:  owasp_logo.png
+  thumbnailUrl: mphelan.png
   type: volunteer
   social: []
 -
   id: "14"
   name: "Iman"
-  surname: ""
+  surname: "Serag"
   title: "Team Player"
-  thumbnailUrl:  owasp_logo.png
+  thumbnailUrl: ImanSerag.jpg
   type: volunteer
   social: []
 -
   id: "15"
-  name: "Ali"
-  surname: "Kaharu"
+  name: "Deirdre"
+  surname: "Carney"
   title: "Team Player"
-  thumbnailUrl:  owasp_logo.png
+  thumbnailUrl: Dee.jpg
   type: volunteer
-  social:[]
+  social:
+    - {name: "twitter", link: "https://twitter.com/realcurlywurly"}
 -
   id: "16"
-  name: "Bimo"
-  surname: ""
+  name: "Harry"
+  surname: "Grillo"
   title: "Social Media Manager"
-  thumbnailUrl:  owasp_logo.png
+  thumbnailUrl: HarryGrillo.jpg
   type: volunteer
-  social:[]
+  social:
+    - {name: "twitter", link: "https://twitter.com/redbassett"}
 -
   id: "18"
-  name: "Indra"
-  surname: "Gunawan"
+  name: "Mark"
+  surname: "Pralat"
   title: "Team Player"
-  thumbnailUrl:  owasp_logo.png
-  type: team
+  thumbnailUrl: MarkPralat.jpg
+  type: volunteer
   social: []
