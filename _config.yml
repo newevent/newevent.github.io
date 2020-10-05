@@ -21,7 +21,7 @@ baseurl: ""
 url: "https://appsec2020.owasp.or.id"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "appsec2020.owasp.or.id"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -30,7 +30,7 @@ organizerAlternateName: "OWASP Jakarta Chapter"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "indonesia@owasp.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http:///"
+organizerLink: "https://www.meetup.com/OWASP-Jakarta-Chapter/"
 
 # Head
 metaKeywords: "event, AppSec Indonesia, OWASP, programming, android, chrome, developers"
