@@ -13,8 +13,10 @@
 -
   group: "Bronze Sponsors"
   elements:
-    - {name: "", description: "", link: "", imageUrl: ""}
+   - {name: "", description: "", link: "", imageUrl: "", width: ""}
+
 -
   group: "Allies"
   elements:
- - {name: "", description: "", link: "", imageUrl: ""}
+    - {name: "", description: "", link: "", imageUrl: "", width: ""}
+   
