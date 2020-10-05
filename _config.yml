@@ -53,7 +53,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "https://www.meetup.com/OWASP-Jakarta-Chapter/", text: "Our Meetup"}
  - {permalink: "https://owasp.org/www-chapter-jakarta/", text: "Chapter"}
- - {permalink: "//", text: ""}
+ - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLSc03R51FZAlYbp2srSfW64LbCZaJ2X8TgzB8IdrbZD2EBIQ4Q/viewform?fbclid=IwAR0F7midnMnSOId32wKbFdE1-F5Qci4lfJhHqoz-QDJcdA26zePpkgWGLjE", text: "Become Our Volunteers"}
 bottomNavigationLinks:
  - {link: "https://s.id/owaspid-cfp-2020", text: "Become a speaker"}
 rightNavigationButtons:
