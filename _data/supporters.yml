@@ -1,10 +1,27 @@
 -
   group: "Podcasts"
   elements:
-
+    - {name: "Fireside Swift", description: "Fireside Swift", link: "https://www.firesideswift.com", imageUrl: "FiresideSwift.jpg"}
+    - {name: "The Learn Swift Podcast", description: "The Learn Swift Podcast", link: "https://learnswift.fireside.fm", imageUrl: "LearnSwiftPodcast.jpg"}
+    - {name: "Swift Coders", description: "Swift Coders", link: "https://swiftcoders.podbean.com", imageUrl: "SwiftCoders.png"}
+    - {name: "SwiftCraft", description: "SwiftCraft", link: "https://podcasts.apple.com/us/podcast/swiftcraft-podcast/id1342090247", imageUrl: "SwiftCraft.jpg"}
 -
   group: "Meetups"
   elements:
-
+    - {name: "CocoaHeads Boston", description: "CocoaHeads Boston", link: "https://www.meetup.com/cocoaheads-boston/", imageUrl: "CocoaHeads.png"}
+    - {name: "Boston MacTechGroup", description: "Boston MacTechGroup", link: "http://www.mactechgroup.org/", imageUrl: "MacTechGroup.png"}
+    - {name: "Brooklyn Swift Developers", description: "Brooklyn Swift Developers", link: "https://www.meetup.com/Brooklyn-Swift-Developers/", imageUrl: "brooklynswiftdevs.png"}
+    - {name: "iOSoho", description: "iOSoho", link: "https://www.meetup.com/iOSoho/", imageUrl: "iosoho.png"}
+    - {name: "Learn Swift {City}", description: "Learn Swift {City}", link: "https://swiftcoders.org/2017/03/07/learn-swift-la/", imageUrl: "LearnSwiftCity.png"}
+    - {name: "MobileTea", description: "Mobile Tea", link: "http://mobiletea.net", imageUrl: "mobiletea.png"}
+    - {name: "NSCoderNight", description: "NSCoderNight", link: "http://nscodernight.com", imageUrl: "NSCoderNight.png"}
+-
   group: "General Supporters"
   elements:
+    - {name: "Indie iOS Focus Weekly", description: "Indie iOS Focus Weekly", link: "https://indieiosfocus.com/", imageUrl: "IndieIOSFocus.png"}
+    - {name: "Big Nerd Ranch", description: "Big Nerd Ranch", link: "https://www.bignerdranch.com", imageUrl: "BigNerdRanch.svg"}
+    - {name: "Swift Weekly Brief", description: "Swift Weekly Brief", link: "https://swiftweekly.github.io/", imageUrl: "SwiftWeekly.png"}
+    - {name: "iOS Dev Tools", description: "iOS Dev Tools", link: "https://iosdev.tools ", imageUrl: "iOSDevTools.png"}
+    - {name: "Design+Code", description: "Design+Code", link: "https://designcode.io/ ", imageUrl: "Design+Code-Logo-White.png"}
+    - {name: "Manning Publications", description: "Manning Publications", link: "https://manning.com", imageUrl: "Manning.png"}
+    - {name: "Ray Wenderlich", description: "Ray Wenderlich", link: "https://www.raywenderlich.com", imageUrl: "RayWenderlich.svg"}

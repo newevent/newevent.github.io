@@ -1,32 +1,449 @@
-- 
-  id: 3
-  name: "Phuong"
-  surname: "Nam Tran"
-  company: "Vietname"
-  title: "Security Consultant"
-  bio: "9 years working as a security professional of Viet Nam computer emergency response team - Ministry of Information and Communications.
-•	9 years experience of penetration testing for Viet Nam government systems.
-•	9 years of Incident handling: support for government agencies and large enterprises in Viet Nam to handle issues of information security.
-•	More than 8 years training about information security for universities, government departments and large enterprises across the country (Government Cipher Committee, Department of Information Security, North  Power Corporation,… ). 
-•	Conduct research about some open sources projects in information security such as: auto malware analysis system, honey pot system, network monitoring system."
-  thumbnailUrl: phuong.jpg
-  rockstar: no
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "site", link: ""}
-- 
-  id: 4
-  name: "Ade"
-  surname: "Yoseman"
-  company: "Indonesia"
-  title: "CTO"
-  bio: "CTO - PT Netkrida Tuah Cakrawala"
-  thumbnailUrl: adeyoseman.jpg
-  rockstar: no
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-  social: 
-    - {name: "google-plus", link: ""}
-    - {name: "site", link: ""}
+-
+  id: "1"
+  name: "Robert C."
+  surname: "Martin"
+  company: "Uncle Bob Consulting LLC"
+  title: "Owner"
+  bio: |
+   Robert C. Martin (Uncle Bob) has been a programmer since 1970.  He is the Master Craftsman at 8th Light inc, a Chicago based Software Consulting firm.  Co-founder of cleancoders.com , offering on-line video training for software developers.  And founder of Uncle Bob Consulting LLC, offering software consulting, training, and skill development services to major corporations worldwide.
+
+   Mr. Martin has published dozens of articles in various trade journals, and is a regular speaker at international conferences and trade shows.  He is also the creator of the acclaimed educational video series at cleancoders.com.
+
+   Mr. Martin has authored and edited many books including:
+
+   Designing Object Oriented C++ Applications using the Booch Method
+   Patterns Langauages of Program Design 3
+   More C++ Gems
+   Extreme Programming in Practice
+   Agile Software Development: Principles, Patterns, and Practices.
+   UML for Java Programmers
+   Clean Code
+   The Clean Coder.
+
+   A leader in the industry of software development, Mr. Martin served three years as the editor-in-chief of the C++ Report, and he served as the first chairman of the Agile Alliance.
+  thumbnailUrl: RobertMartin.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/unclebobmartin"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/robert-martin-7395b0/"}
+    - {name: "site", link: "https://cleancoders.com"}
+-
+  id: "2"
+  name: "Diana"
+  surname: "Rodriguez"
+  company: "VoiceThread"
+  title: "Chief DevOps Architect"
+  bio: |
+   Diana Rodriguez is a Full Stack Developer/DevOps & Google Developer Expert. With 18 years' experience and a strong background in back end and infrastructure, Diana likes to bring together the best of both worlds, spreading DevOps culture. She's super enthusiastic about everything to encourage people to start a career in development and a fan of female devs and DevOps. In her spare time she likes to play videogames, also a huge fan of sports, Diana is a rugby player and taekwondo black belt.
+  thumbnailUrl: DianaRodriguez.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/cotufa82"}
+    - {name: "linkedin", link: "https://linkedin.com/in/nerdattack82"}
+    - {name: "github", link: "https://github.com/alphacentauri82"}
+    - {name: "site", link: "https://beingadev.rocks"}
+-
+  id: "3"
+  name: "Ish"
+  surname: "Shabazz"
+  company: "Illuminated Bits"
+  title: "iOS Developer"
+  bio: |
+   Ish has been an independent iOS App Developer since 2010. He works full time as a network engineer and spends practically every moment outside of that developing apps or working on something app-related. His apps have been featured by Apple, Starbucks, App Advice, iMore, and Daring Fireball. Ish’s story was featured in the documentary App: The Human Story. He is currently working on Capsicum, a daily planner and notebook.
+  thumbnailUrl: IshShabazz.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ishabazz"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ishmael-shabazz-9651749/"}
+-
+  id: "4"
+  name: "Sean"
+  surname: "Olszewski"
+  company: "Pivotal"
+  title: "Engineering Practice Lead"
+  bio: |
+   Sean Olszewski is the author of Muter, a mutation testing tool for Swift code. Currently an engineering practice lead at Pivotal, he focuses on the practice of test driven development and the design of effective test suites in his day-to-day work. Previously, he has worked on code bases for intelligent hydroponic gardens, connected vehicles, and audio synthesizers. He can be found at meet ups in the Boston area, or organizing his meetup Learn Swift Boston. 
+  thumbnailUrl: SeanOlszewski.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/__chefski__"}
+    - {name: "github", link: "https://github.com/seanrolszewski/muter"}
+-
+  id: "5"
+  name: "Alicia"
+  surname: "Carr"
+  title: "iOS Engineer"
+  bio: |
+    Alicia is the first woman of color self taught mobile developer to create a domestic violence app Purple Evolution, Inc(PEVO) dedicated to helping victims escape abuse. She used her acquired skills as a developer to make a difference. Alicia also dedicated her time to empowering women in tech with Women Who Code, she has received several major acknowledgment from Apple at WWDC15 and WWDC16 being the first black woman to be in an Apple 2016 new beginnings video and GitHub in there I am a developer video.
+  thumbnailUrl: AliciaCarr.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Fineblkwoman"}
+-
+  id: "6"
+  name: "Rob"
+  surname: "Napier"
+  company: "Jaybird"
+  bio: |
+   Rob is co-author of iOS Programming Pushing the Limits, and maintainer of the RNCryptor encryption format. Before coming to Cocoa, he made his living sneaking into Chinese facilities in broad daylight. Today, he shapes music over Bluetooth for Logitech, explores old ideas in new languages, and tries to figure out how all of this applies to Swift.
+  thumbnailUrl: RobNapier.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/cocoaphony"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rnapier/"}
+    - {name: "site", link: "http://robnapier.net/"}
+-
+  id: "7"
+  name: "Lou"
+  surname: "Franco"
+  company: "Trello"
+  bio: |
+   Lou Franco is on the Trello iOS Team at Atlassian and is a contributor to Smashing Magazine. In his spare time, he runs, volunteers as a Big Brother, and writes about iOS on App-o-Mat. He lives with his wife in Northampton, MA.
+  thumbnailUrl: LouFranco.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/loufranco"}
+    - {name: "site", link: "https://trello.com/"}
+    - {name: "site", link: "https://www.smashingmagazine.com/"}
+    - {name: "site", link: "https://app-o-mat.com/"}
+-
+  id: "8"
+  name: "Miriam"
+  surname: "Friedel"
+  company: "Skafos.ai"
+  title: "Head of Data Science"
+  bio: |
+   Dr. Miriam Friedel has spent over fifteen years in scientific and technical fields spanning theoretical physics, software engineering, transportation, neuroscience, and machine learning. She currently leads the data science team at Skafos, a start up in Charlottesville, VA. Skafos.ai is the ML platform for iOS developers, offering push-button deployment to the edge. Prior to her current role, Miriam was a Director and Senior Scientist at Elder Research, where she lead the commercial business unit and helped clients in a range of industries achieve ROI from machine learning. Her unique background helps her bridge the gap from technical details to strategic insights, increasing collaboration across disparate functional teams.
+
+   Miriam received her ScB in physics from Brown University and her PhD in Physics from the University of California, Santa Barbara. She is a co-author on over fifteen peer reviewed articles, and outside of work, spends as much time as possible practicing yoga and being with her two daughters.
+  thumbnailUrl: MiriamFriedel.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/miriam-friedel-aa2b0611/"}
+    - {name: "site", link: "https://skafos.ai"}
+-
+  id: "9"
+  name: "Neem"
+  surname: "Serra"
+  company: "Slalom"
+  bio: |
+   Neem Serra is a mobile developer at Slalom in St. Louis. She teaches and mentors at a variety of non-profit organizations such as Software Carpentry. As the lead of the Google Women Techmakers group in St. Louis, she started the St. Louis Techies Project to highlight the diversity of technical people in St. Louis. Neem loves to bake, read comics, and host craft nights.
+  thumbnailUrl: NeemSerra.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/TeamNeem"}
+-
+  id: "10"
+  name: "Todd"
+  surname: "Burner"
+  company: "Google"
+  bio: |
+   Todd Burner is a Developer Advocate on the Firebase team. He previously worked on other teams in Google Cloud Platform, at Twitter, and a few mobile-first startups. He spends his time helping developers get up and running with open source and Google projects on GitHub and Stack Overflow, as well as meeting developers in person across the world.
+  thumbnailUrl: ToddBurner.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/toddlovesthis"}
+    - {name: "github", link: "https://github.com/tkburner"}
+-
+  id: "12"
+  name: "Meng"
+  surname: "To"
+  company: "Design+Code"
+  title: "Founder"
+  bio: |
+   Meng To is the author of Design+Code. Meng started off his career as a self-taught designer from Montreal and eventually traveled around the world for 2 years as his US VISA was denied. During his travels, he wrote a book which now has 40,000 readers. Today, he focuses on helping designers and developers master design and coding via design-focused video tutorials, articles, talks, and workshops.
+  thumbnailUrl: MengTo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mengto"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mengto/"}
+    - {name: "site", link: "https://designcode.io/"}
+-
+  id: "13"
+  name: "Daniel"
+  surname: "Steinberg"
+  company: "Dim Sum Thinking"
+  title: "Storyteller"
+  bio: |
+   Daniel presents iPhone, Cocoa, and Swift training and consults through his company Dim Sum Thinking. He has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7. You can also find his best-selling books “A Swift Kickstart” and “Dear Elena” on the Editors Cut website. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking or hanging out with friends.
+  thumbnailUrl: DanielSteinberg.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/dimsumthinking"}
+    - {name: "site", link: "http://dimsumthinking.com/"}
+-
+  id: "14"
+  name: "Jeff"
+  surname: "Kelley"
+  company: "Detroit Labs"
+  bio: |
+   Jeff Kelley is a developer at Detroit Labs, where he builds apps in Swift but still has a soft spot for Objective-C. Author of Developing Apps for Apple Watch and Learn Cocoa Touch for iOS, he’s been working with iOS since its infancy in 2008. Jeff is passionate about building usable apps, the open-source community around Apple platforms, and will talk your ear off about electric cars and clean energy. Jeff loves raising his two kids and two dogs, Detroit, and organizing the Motor City CocoaHeads group.
+  thumbnailUrl: JeffKelley.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/slaunchaman"}
+-
+  id: "15"
+  name: "Kaitlin"
+  surname: "Mahar"
+  company: "MongoDB"
+  title: "Software Engineer"
+  bio: |
+   Kaitlin is a software engineer living in NYC. She works at MongoDB, where she leads development of the official MongoDB driver for Swift. Outside of work she enjoys doing crossword puzzles, playing with her cats, and trying all of the amazing food and drinks NYC has to offer.
+  thumbnailUrl: kaitlinMahar.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/k__mahar"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kaitlinmahar/"}
+    - {name: "github", link: "https://github.com/kmahar/"}
+    - {name: "site", link: "https://kaitlin.dev/"}
+-
+  id: "18"
+  name: "Jason"
+  surname: "Zurita"
+  company: "Warby Parker"
+  title: "iOS Software Engineer"
+  bio: |
+   Jason Zurita is a self-taught software engineer working on internal and external iOS apps at Warby Parker. Having begun his career as an Electrical Engineer, he understands the challenge in changing careers, which is what drives him to try and give back to the tech community (contributing to open source, teaching, blogging, giving talks, etc.).
+
+   He enjoys learning different tech stacks and how they can be put together to create new and interesting projects, the Swift language, tinkering with electronic projects, and going for a walk with his wife, son, and dog.
+  thumbnailUrl: JasonZurita.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jasonalexzurita"}
+    - {name: "linkedin", link: "http://linkedin.com/in/jasonzurita"}
+    - {name: "github", link: "https://github.com/jasonzurita"}
+    - {name: "site", link: "https://jasonzurita.com/blog"}
+-
+  id: "20"
+  name: "Leena"
+  surname: "Mansour"
+  company: "PagerDuty"
+  title: "Engineering Manager"
+  bio: |
+   Leena has been building iOS apps for 8 years and is now an Engineering Manager at Pagerduty where she does a lot more talking than development. She's passionate about inclusion, accessibility and helping people grow. When she's not at work, she's probably playing Call of Duty, playing dodgeball or playing with her dogs.
+  thumbnailUrl: LeenaMansour.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/_LeenaM"}
+    - {name: "github", link: "https://github.com/LeenaMansour"}
+-
+  id: "21"
+  name: "Namrata"
+  surname: "Bandekar"
+  company: "Ray Wenderlich"
+  title: "iOS Software Engineer"
+  bio: |
+   Namrata has been building mobile apps for seven years. She is a member of the Ray Wenderlich Tutorial Team and the co-author of ARKit by Tutorials. Apart from making apps, she is passionate about travelling, scuba diving and hiking with her dog.
+  thumbnailUrl: NamrataBandekar.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/namratacodes"}
+    - {name: "github", link: "https://github.com/namratabandekar"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/namratabandekar/"}
+-
+  id: "22"
+  name: "Cavelle"
+  surname: "Benjamin"
+  company: "GE"
+  title: "Director, Technical Risk"
+  bio: |
+   Lover of technology. Busy bee at a large company. Husband . Father. Coder.
+   Engineer by degree, but learned to code while in undergrad.
+   Leveraged coding to get my job done in almost all of my roles
+   Released first iOS app in 2012 (Babble Ball, sold it)
+   Active in open source (command-line utilities, APIs)
+   Currently working on more iOS apps.
+  thumbnailUrl: CB.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/_thecb4"}
+    - {name: "site", link: "https://thecb4.io"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cavellebenjamin/"}
+-
+  id: "23"
+  name: "Thomas"
+  surname: "Yoon"
+  company: "Tinder"
+  title: "iOS Engineer"
+  bio: |
+    Thomas has worked as an iOS Engineer at Tinder past 3 years. His recent projects include SuperBoost and upgrading Tinder Gold experiences. He is a core member of Tinder's revenue team that achieved top grossing app in the app store, driving millions of dollars each month. Previously, he has worked on Tinder Places with many location tracking technologies and beautiful animations, introduced Tinder Feed, revamped chat experience, and incorporated Spotify to Tinder profiles. He is passionate about creating the most aesthetically pleasing user experiences and building tools for the team members.
+  thumbnailUrl: ThomasYoon.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thomasyoonsw/"}
+-
+  id: "24"
+  name: "Sam"
+  surname: "Marshall"
+  company: "Tinder"
+  title: "Senior iOS Engineer"
+  bio: |
+   Sam has over 6 years experience as a professional iOS software developer and has been working at Tinder for 2 years. He is passionate about all things Swift, iOS and writing clean code. Sam co-founded the app Rapchat straight out of college and was the Lead Developer on the project. The app achieved viral success that resulted in over 400,000 downloads in a period of only a few months with no funding whatsoever. Since Rapchat, Sam worked on a 3 man iOS team at Whisper, an app that boasted over 30 million active users. During his time at Tinder, he's been the sole developer responsible for ads on the iOS platform. Driving millions of dollars in revenue each month.
+  thumbnailUrl: SamMarshall.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sam-marshall-1312a8139/"}
+-
+  id: "25"
+  name: "Nelida"
+  surname: "Velazquez"
+  company: "Detroit Labs"
+  title: "Senior iOS Engineer"
+  bio: |
+   Nelida Velazquez is an Application developer at Detroit Labs who has a passion for tacos and reading code. She’s been a mobile developer for over 10 years, working with major brands both in the United States and in her home country of Mexico. When not coding, she likes to travel and attend conferences around the world.
+  thumbnailUrl: NelidaVelazquez.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/tolkiana"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nelida-velazquez-56967014/"}
+-
+  id: "26"
+  name: "Jackson"
+  surname: "MacKenzie"
+  company: "Akamai Technologies"
+  title: "Analyst"
+  bio: |
+   Jackson MacKenzie is an analyst at Akamai and author with Penguin Random House. With half a million followers on social media, his books have sold hundreds of thousands of copies worldwide in thirteen languages. He is passionate about exploring human psychology and releasing the things that hold us back.
+  thumbnailUrl: JacksonMacKenzie.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jackson-mackenzie-602532166/"}
+-
+  id: "27"
+  name: "Dani"
+  surname: "Devesa"
+  company: "Skyscanner"
+  title: "Mobile Software Engineer"
+  bio: |
+   I am an iOS developer since I had the chance to, when I had to choose the topic for my Master’s Thesis. I enjoyed the experience so much that that’s what I've been doing for a living ever since. It's been more than seven years now and I am lucky I've been able to learn from a great variety of experiences including working for the BBC helping to build the News and BBC+ apps. Now I am having a great time as a Mobile Software Engineer at Skyscanner, helping millions of users to plan and book their trips with their iOS devices.
+  thumbnailUrl: DaniDevesa.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/dadederk"}
+-
+  id: "28"
+  name: "Calvin"
+  surname: "Chestnut"
+  company: "WeedMaps"
+  title: "Senior iOS Engineer"
+  bio: |
+   Calvin is an Apple enthusiast turned engineer who has been developing iOS apps in the Boston area for five years. After his college start-up was acquired he launched Drink Keeper, a HealthKit app for calculating Blood Alcohol Content.
+   Today he is a Senior Software Engineer with WeedMaps, manages a Vapor and Swift backed server stack, and hosts the CastKit podcast on iOS Development and related tech topics.
+   When not developing he can be found skateboarding to a meetup around Boston, playing Dungeons & Dragons with his college friends, or watching scary movies with his wife and cat at their home in Salem.
+  thumbnailUrl: CalvinChestnut.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/iCalvin"}
+-
+  id: "29"
+  name: "Marc"
+  surname: "Prud'hommeaux"
+  company: "Glimpse I/O"
+  title: "Principal Developer"
+  bio: |
+   Marc Prud'hommeaux is the founder and principal developer at Glimpse I/O, which makes database and data visualization apps for the Mac, iPhone, and iPad. He has been a professional software developer for over two decades and has been developing for iOS since 2008, when he released the first ebook reader "Stanza" on the opening day of the Apple App Store. Since then, Marc has worked on various world-class apps such as Amazon Kindle and New York Times Cooking, as well as his own line of macOS and iOS apps. In his spare time he enjoys teaching his daughter Beatrix to fly small airplanes.
+  thumbnailUrl: MarcPrudHommeaux.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marcprux/"}
+-
+  id: "30"
+  name: "Kamil"
+  surname: "Borzym"
+  company: "Allegro.pl"
+  title: "Senior Software Engineer"
+  bio: |
+   Kamil is an iOS software developer. He has been into mobile development long before iOS (can you remember Java ME?). Now he is working at Allegro - the biggest e-commerce company in his home country (Poland).
+   Kamil is very curious of how things work internally, so he likes to decompile frameworks and apps. Currently he is planing to decompile an engine of his mx5.
+  thumbnailUrl: KamilBorzym.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/kam800"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kamil-borzym-03763473/"}
+-
+  id: "31"
+  name: "Kathleen"
+  surname: "Chung"
+  company: "MetaLab"
+  title: "iOS Engineer"
+  bio: |
+   I'm an iOS engineer based in Toronto, building beautiful interfaces working remotely for MetaLab. I have a special interest in developing effective teams through improving process and building relationships. Outside of workf32, I'm usually consuming cooking- and cosmetics-related content, or climbing (mostly) plastic rocks.
+  thumbnailUrl: KathleenChung.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://www.twitter.com/kathleenchung"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kathleen-chung/"}
+-
+  id: "32"
+  name: "Arnaud"
+  surname: "Lucas"
+  company: "Wayfair"
+  title: "Engineering Director"
+  bio: |
+   Arnaud Lucas is an engineering director at Wayfair.  He received his MS in computer science from Université de Technologie de Compiègne in France.  After graduating from university and completing his mandatory military service, he lived in Houston, TX working for early startups in web security and e-commerce.  He then moved to Boston twelve years ago.  With 20 years of software development experience, Arnaud now focuses on scaling the native app organization and two new initiatives at Wayfair: Design Services and Home Services.  He is also helping create the first physical permanent store of Wayfair.  All of them are amazing challenges that he enjoys working on every day.  Wayfair is the largest online home retailer in the US, growing at over 40% YoY, and its native app usage is growing even faster.  When not working, he likes traveling with his two kids, gardening, and making beer (currently a Barley Wine.)  Arnaud is always looking for strong Software Engineers and Leaders that can partner with him in scaling up his engineering teams, web, iOS and Android.
+  thumbnailUrl: ArnaudLucas.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucasarn/"}
+-
+  id: "33"
+  name: "Soojin"
+  surname: "Ro"
+  company: "WEBTOON"
+  title: "iOS developer"
+  bio: |
+   Soojin is an iOS developer based in South Korea, building a comics app WEBTOON for 55M+ global users. He is passionate about Swift and ARKit, and believes AR glasses will one day replace smartphones. Once a business major in university, he learned to code in his spare time, and the first iOS app he crafted was awarded Best of 2015, 2016, and 2017(Yes, three years in a row!) Top Paid Apps in South Korea. He writes about Swift, programming, and mobile apps in his Korean blog.
+  thumbnailUrl: SoojinRo.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/soojinro/"}
+    - {name: "twitter", link: "https://www.twitter.com/soojinro/"}
+    - {name: "site", link: "https://soojin.ro/about"}
+-
+  id: "34"
+  name: "Michael"
+  surname: "Helmbrecht"
+  company: "Archipelago Analytics"
+  title: "Lead Designer"
+  bio: |
+   Michael is a designer/engineer who enjoys bringing ideas to life & solving any kind of puzzle. He works at Archipelago, designing insurance software. He had a great time at SwiftFest 2018! He never recycles a joke.
+  thumbnailUrl: MichaelHelmbrecht.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/michaelhelmbrecht/"}
+    - {name: "twitter", link: "https://twitter.com/mrh_is"}
+-
+  id: "35"
+  name: "Ian"
+  surname: "Thomas"
+  company: "WeCroak"
+  title: "Lead Developer"
+  bio: |
+   Ian Thomas is the developer of the WeCroak app, a mindfulness product that was covered in the Atlantic and New York Times and reached a peak rating of #1 in Health and Fitness apps.
+
+   He co-founded his first app startup in 2009 and created one of the first 3000 iPad apps. Working in the mobile health sector since 2010, his flagship healthcare app, FH Diagnosis, was acquired in 2017. He works on the iOS team at Visva, a social media company in Cupertino CA.
+
+   He has a BA in Political Science from Middlebury College and a Master’s in Innovation Management and Entrepreneurship from Brown University.
+  thumbnailUrl: IanThomas.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/iangthomas/"}
+    - {name: "twitter", link: "https://twitter.com/iangthomas"}
+-
+  id: "36"
+  name: "Giorgio"
+  surname: "Natili"
+  company: "Amazon Kindle"
+  title: "Engineering Lead"
+  bio: |
+   On paper, I am an engineering lead at Amazon where I work with the layout team of the Kindle organization solving the problem of pre-processing, delivering and rendering the content of millions of books on billions of devices on every supported language.
+
+   In a parallel universe, I foster my vision of an inclusive and diverse community where great training is affordable to everyone. To achieve this goal, I run several conferences (Droidcon Boston and SwiftFest), participate in many meetups in Boston, Seattle, and New York, and speak at conferences covering my favorite topics: Android, Angular, Machine Learning, Swift and TDD.
+
+   I have the honor of being part of the Google Developer Experts program.
+  thumbnailUrl: GiorgioNatili.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili/"}
+    - {name: "twitter", link: "https://twitter.com/giorgionatili"}
