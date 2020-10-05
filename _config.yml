@@ -33,7 +33,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://www.meetup.com/OWASP-Jakarta-Chapter/"
 
 # Head
-metaKeywords: "event, AppSec Indonesia, OWASP, programming, android, chrome, developers"
+metaKeywords: "event, AppSec Indonesia, OWASP, programming, android, chrome, developers,Open Source,New Technology,Web Security,Network Security,Computer Security,White Hat Hacking,OWASP,Information Security,Software Security,Ethical Hacker,Penetration Testing,Cybersecurity,Web Application Security,The Open Web Application Security Project"
 twitterAccount: "@OWASPJakarta"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -47,12 +47,12 @@ c4sponsorsUrl: ""
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Submit"}
+ - {permalink: "https://s.id/owaspid-cfp-2020", text: "Submit"}
  - {permalink: "", text: "Register"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "", text: ""}
- - {permalink: "", text: ""}
+ - {permalink: "https://www.meetup.com/OWASP-Jakarta-Chapter/", text: "Our Meetup"}
+ - {permalink: "https://owasp.org/www-chapter-jakarta/", text: "Chapter"}
  - {permalink: "//", text: ""}
 bottomNavigationLinks:
  - {link: "https://s.id/owaspid-cfp-2020", text: "Become a speaker"}
@@ -63,7 +63,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "OWASP AppSec <typeout> 2020"
 eventDate: "Virtual, 21-22 November 2020"
-typeoutTextValues: '"", "Cyber Security","Conference","Indonesia"'
+typeoutTextValues: '"", "Cyber Security","Conference","Indonesia","Open Source","IoT,"Web Security","Network Security","Computer Security","White Hat Hacking","Information Security","Software Security","Ethical Hacker","Penetration Testing","Cybersecurity","Web Application Security","The Open Web Application Security Project"'
 typeoutFallback: "Conference"
 heroButtons:
  - {link: "https://s.id/owaspid-cfp-2020", text: "Become a speaker"}
