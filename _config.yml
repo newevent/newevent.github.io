@@ -1,107 +1,109 @@
 # Plugins
-plugins:
+gems:
 - jekyll-sitemap
 safe: false
+
+maps:
+    google:
+      api_key: <AIzaSyBIehfgdYIdwupe2Dr9yI7jkydwIgjfNWI>
 
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'Original Assets', '/vendor']
-timezone: 'America/New_York'
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-# Miscellaneous
-googleMapsAPIKey: "AIzaSyAvGdd7lRTgZrGDwURX87xxBuina1LL43k"
 
 # Site Settings
-title: "SwiftFest 2019"
-email: "conference@swiftfest.io"
-description: "The most community driven Swift conference!"
-baseurl:
-url: "swiftfest.io"
-googleAnalyticsTrackingId: "UA-3309084-18"
-googleAnalyticsSiteUrl: "swiftfest.io"
-siteVerification: "-oXISG9WQeAZnsrs10KXZHl3DzLr_t9IOnmAmDTbMrI"
+title: "OWASP AppSec Conference 2020"
+email: "indonesia2018@owasp.org"
+description: "OWASP Appsec is One-day Conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications"
+baseurl: ""
+url: "https://appsec2020.owasp.or.id"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Giorgio Natili, Lucy Monahan, Barbara Menicucci, Alicia V Carr, Andres Pineda, "
-organizerAlternateName: "SwiftFest Boston 2019"
-organizerDescription: "Open and volunteer geek community who create exciting events and share experience about mobile development technology with passion. We do love Swift and everything mobile!"
-organizerEmail: "conference@swiftfest.io"
+organizerName: "OWASP"
+organizerAlternateName: "OWASP Jakarta Chapter"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "indonesia@owasp.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://swiftfest.io"
+organizerLink: "http:///"
 
 # Head
-metaKeywords: "event, swiftfest, boston, programming, swift, apple, ios, macos, tvos, watchos, developers, community, conference, learning, affordable, inclusion, diversity, scholarship"
-twitterAccount: "@theSwiftFest"
+metaKeywords: "event, AppSec Indonesia, OWASP, programming, android, chrome, developers"
+twitterAccount: "@OWASPJakarta"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSffougjfUt4bjecHeKWMgvhbiUBryAN-sU9irHQ-Ytdyih0Og/viewform"
-c4sponsorsUrl: "mailto:conference@swiftfest.io"
+c4pUrl: ""
+c4sponsorsUrl: ""
+
 
 # Navigation
 navigationLinks:
-# - {permalink: "/", text: "Home"}
-# - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
- - {permalink: "/faq/", text: "FAQ"}
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/", text: "Submit"}
+ - {permalink: "", text: "Register"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/#tickets", text: "Tickets"}
- - {permalink: "/#partners", text: "Sponsors"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "https://2018.swiftfest.io", text: "2018"}
+ - {permalink: "", text: ""}
+ - {permalink: "", text: ""}
+ - {permalink: "//", text: ""}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets"}
+ - {link: "https://s.id/owaspid-cfp-2020", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets"}
+ - {link: "https://s.id/owaspid-cfp-2020", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "boston-sky.jpg"
-heroTitle: "SwiftFest <typeout>  2019" # TODO: typeout?
-eventDate: "July 29–30, 2019"
-typeoutTextValues: '"", "Boston ", "Swift ", "Engineering ", "Community ", "Innovation ", "Open Source ", "Scripting ", "Development ", "Culture ", "Beantown ", "iOS ", "Excellence ", "Inclusiveness "'
-typeoutFallback: "Boston"
+heroImage: "hero.jpg"
+heroTitle: "OWASP AppSec <typeout> 2020"
+eventDate: "Virtual, 21-22 November 2020"
+typeoutTextValues: '"", "Cyber Security","Conference","Indonesia"'
+typeoutFallback: "Conference"
 heroButtons:
- - {permalink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy tickets", target: "_blank"}
+ - {link: "https://s.id/owaspid-cfp-2020", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About SwiftFest"
+aboutTitle: "About OWASP AppSec Indonesia Conference 2020"
 aboutBlock:
- - {title: "Conference", image: "conference.png", text: "<p><strong>SwiftFest</strong> is a different way to experience <strong>iOS development</strong> that brings together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment entirely focused on <strong>Swift</strong>. The most community-driven Swift conference is happening for the second time in <strong>Boston</strong> – <strong>July 29-30</strong>, 2019.</p>" }
- - {title: "Workshops", image: "workshop.png", text: "At <b>SwiftFest</b> we'll be offering workshops along with talks and networking with some of the most innovative developers in the <b>Swift</b> space. Come along and elevate your <b>Swift</b> and <b>iOS</b> skills!" }
+ - {title: "Conference", image: "conference.jpg", text: "One-day conference dedicated to application security, with an emphasis on secure architecture and development techniques to help developers build more secure applications!. All Presentation in English" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Capture The Flag", image: "ctf.jpg", text: "CTF are a great opportunity to learn, so if you’ve never experienced a CTF event or even a OWASP event, I strongly encourage you to jump in and join one as soon as you can!    !" }
+ - {title: "Networking", image: "hackathon.jpg", text: "Network with other security minded and passionate Developers, DevOps Engineers, Quality Assurance Testers, Security Professionals and more!!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
+ - {count: "200", specialCharacter: "+", info: "OWASP ", detail: "chapters around the world"}
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Swift"}
- - {count: "30", specialCharacter: "+", info: "speakers", detail: "from Boston and beyond"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "catch the videos later!"} #TODO: tagline appropriate?
+ - {count: "20", specialCharacter: "+", info: "Speakers", detail: "from everywhere"}
+ - {count: "500", specialCharacter: "", info: "Tickets", detail: "Available this year"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Featured Speakers"
-rockstarSpeakersButtonText: "See all the speakers"
+rockstarSpeakersCount: 5
+rockstarSpeakersTitle: "Speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Calderwood Pavilion"
-eventLocationLink: "https://www.huntingtontheatre.org/about/venue/pavilion/"
-eventStreetAddress: "527 Tremont Street"
-eventAddressLocality: "Boston"
-eventAddressLocalityRegion: "MA"
-eventPostalCode: "02116"
-eventAddressCountry: "USA"
-eventStartTime: "9:00 am"
+eventLocationName: "Virtual"
+eventStreetAddress: "Conference By Virtual"
+eventAddressLocality: ""
+eventAddressLocalityRegion: "Jakarta"
+eventAddressCountry: "Indonesia"
+eventStartTime: "2020-11-01T08:00"
 eventDoorTime: "09:00"
-eventEndTime: "6:00 pm"
-eventPlaceCoordinates: "42.344797, -71.070950"
-mapCenterCoordinates: "42.344848, -71.072060"
-mapMobileCenterCoordinates: "42.344848, -71.072060"
+eventEndTime: "2020-11-03T20:00"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -109,121 +111,97 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Calderwood Pavilion"
-venueFeatures: ["2 full theatrical stages", "Seating for 370", "Located in downtown Boston"]
+venueTitle: "Conference By Virtual"
+venueFeatures: [""]
 
 # Tweets Feed Block
-# TODO: need to set up tweetledee or delete this section https://github.com/tweetledee/tweetledee
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "swiftfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+tweetsFeedTitle: "Follow Us @OWASPJakarta"
+twitterHashTag : "OWASPAppsecID2020 "
+twitterFeed: ""
 
 # Partners Block
-partnersTitle: "Sponsors"
-partnersC4sponsorsButton: "Become a sponsor for 2019!"
-
-# Supporters Block
-supportersTitle: "Supporters"
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gnstudio.us6.list-manage.com/subscribe/post"
-subscribeHiddenU: "66c929ea69a19ef75fd17625d"
-subscribeHiddenId: "4ceb4a99c2"
-subscribeInfo: "Find out about new speaker announcements and other SwiftFest news."
+subscribeAction: ""
+subscribeInfo: "Registration will be open around end of June. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Tickets"
-ticketsInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-   name: "Student"
-   price: "99"
-   priceCurrency: "USD"
-   buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
-   buyButtonText: "Buy Now"
-   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund."
-   validFrom: "2019-1-1T00:00"
-   validThrough: "2019-07-28T9:00"
-   soldOut: false
-   disabled: false
-   soldOutText: "Sold Out"
- -
-  name: "At the Crack of Dawn"
-  price: "199"
-  priceCurrency: "USD"
-  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
-  validFrom: "2019-02-11T00:00"
-  validThrough: "2019-04-08T23:59"
-  soldOut: true
-  disabled: false
-  soldOutText: "Sold Out"
- -
-  name: "Super Early Bird"
-  price: "299"
-  priceCurrency: "USD"
-  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
-  validFrom: "2019-02-11T00:00"
-  validThrough: "2019-06-08T23:59"
-  soldOut: true
-  disabled: false
-  soldOutText: "Sold Out"
- -
   name: "Early Bird"
-  price: "399"
+  price: ""
   priceCurrency: "USD"
-  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
-  validFrom: "2019-06-16T00:00"
-  validThrough: "2019-07-08T23:59"
-  soldOut: true
-  disabled: false
-  soldOutText: "Sold Out"
+  ticketsNumber: ""
+  ribbon: "-5%"
+  buyButtonLink: ""
+  buyButtonText: "As Soon"
+  ticketContentList: [""]
+  validFrom: "2018-07-25T10:00"
+  validThrough: "2018-07-30T23:59"
  -
-  name: "Regular Bird"
-  price: "499"
+  name: "Last Chance"
+  price: ""
   priceCurrency: "USD"
-  buyButtonLink: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Conference ticket purchase includes 2 full days of sessions (July 29th–30th) and exhibitor booths, a ticket to the official conference party on July 29th, morning snack, lunch, and afternoon snack on both days."
-  validFrom: "2019-07-09T00:00"
-  validThrough: "2019-07-26T23:59"
-  soldOut: false
-  disabled: false
-  soldOutText: "Sold Out"
+  ticketsNumber: ""
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: ""
+  buyButtonText: "As Soon"
+  ticketContentList: [""]
+  validFrom: "2018-09-01T00:00"
+  validThrough: "2018-09-23T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: ""
+  priceCurrency: "USD"
+  ticketsNumber: ""
+  buyButtonLink: ""
+  buyButtonText: "As Soon"
+  additionalInfo: "Requires a va no:59"
+  soldOut: True
+  soldOutText: "As soon"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=TheSwiftFest", icon: "twitter"}
- - {link: "https://www.facebook.com/theSwiftFest", icon: "facebook"}
- - {link: "https://www.linkedin.com/company/swiftfest/", icon: "linkedin"}
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
+  title: "Links"
+  links:
+   - {link: "http://appsec2020.owasp.or.id", text: "OWASP Appsec Conference Indonesia 2020"}
+   - {link: "https://OWASP.org", text: "OWASP Foundation"}
+ -
   title: "Contacts"
   links:
-   - {link: "mailto:conference@swiftfest.io", text: "conference@swiftfest.io"}
+   - {link: "mailto:indonesia2018@owasp.org", text: "OWASP Appsec Indonesia Committee"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/code-of-conduct/", text: "Code of Conduct"}
-   - {permalink: "/diversity-inclusion/", text: "Diversity &amp; Inclusion"}
-   - {permalink: "/logistics/", text: "Logistics"}
+   - {permalink: "https://owasp.org/www-policy/operational/code-of-conduct", text: "Code of Conduct"}
 
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "SwiftFest is put on by a group of community builders in Boston passionate about Swift and mobile related technologies. We love bringing together engineers, architects, midnight coders, students, etc. in a highly social and vibrant environment to engage in technical discussions and to have fun."
+aboutUs: ""
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -233,17 +211,17 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "40.046741, -79.244695"
-logisticsMapMobileCenterCoordinates: "42.412080, -71.733608"
-logisticsMapAutoDirections: false
+logisticsMapCenterCoordinates: "49.056728, 3.117289"
+logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapAutoDirections: True
 
 # Logistics Direction Details Block
-directionDetailsImage: "ship.jpg"
-directionDetailsTitle: "Get around Boston"
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Lviv"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Logan Airport is right next to the city. It is easily reachable by car, public transport, or taxi. More information is available at the <a href="http://www.massport.com/logan-airport/">airport website</a>.'}
- - {title: "Public Transit", information: 'You can take <a href="https://mbta.com">MBTA</a> buses and trains anywhere in Boston. You can take the Silver Line bus from the airport, but use Apple or Google Maps to find the best route for your time of day.'}
- - {title: "Hotels", information: 'Boston has a large range of hotels to choose from. We have some suggestions but you will have no problem finding a hotel to suit your preferences.'}
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
   title: "Questions?"
@@ -251,15 +229,61 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://www.marriott.com/hotels/hotel-photos/bosdm-courtyard-boston-downtown/", text: "Courtyard Boston Downtown (Official SwiftFest Hotel)"}
-     - {link: "https://clubquartershotels.com/locations/club-quarters-hotel-boston", text: "Club Quarters Boston"}
-     - {link: "http://www.wboston.com/", text: "W Boston"}
-     - {link: "https://www.airbnb.com/s/Boston--MA", text: "AirBnb"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
     title: "Registration"
     links:
-     - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233#tickets", text: "Buy Tickets"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
     title: "Attendance Details"
     links:
-     - {link: "https://www.eventbrite.com/e/swiftfest-2019-tickets-56501408233", text: "Event Info"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Meet our themes"
+hackathonRows:
+ - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+ - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+ - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: ""
+hackathonLocationLink: ""
+hackathonStreetAddress: ""
+hackathonAddressLocality: ""
+hackathonAddressLocalityRegion: "Indonesia"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Indonesia"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.840999, 24.031144"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
