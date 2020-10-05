@@ -1,30 +1,15 @@
--
-  group: "Platinum Sponsor"
-  elements:
-    - {name: "Pluralsight", description: "Pluralsight", link: "https://www.pluralsight.com", imageUrl: "PluralSight@3x-8.png"}
--
-  group: "Gold Sponsors"
-  elements:
-    - {name: "Tinder", description: "Tinder", link: "https://tech.gotinder.com", imageUrl: "Tinder@3x-8.png"}
--
-  group: "Silver Sponsors"
-  elements:
-    - {name: "Amazon Kindle", description: "Amazon Kindle", link: "https://capitalone.com", imageUrl: "Amazon@3x-8.png"}
-    - {name: "Capital One", description: "Capital One", link: "https://capitalone.com", imageUrl: "CapitalOne@3x-8.png"}
-    - {name: "Double Espresso", description: "Double Espresso", link: "https://www.2xe.io", imageUrl: "DoubleEspresso@3x-8.png", width: "180px"}
--
-  group: "Bronze Sponsors"
-  elements:
-    - {name: "Rue Gilt Groupe", description: "Rue Gilt Groupe", link: "https://www.ruelala.com/", imageUrl: "Rue@3x-8.png", width: "100px"}
-    - {name: "Skafos", description: "Skafos", link: "https://skafos.ai", imageUrl: "Skafos@3x-8.png", width: "160px"}
-    - {name: "TripAdvisor", description: "TripAdvisor", link: "https://tripadvisor.com", imageUrl: "TripAdvisor@3x-8.png", width: "140px"}
--
-  group: "Allies"
-  elements:
-    - {name: "Allegro.pl", description: "Allegro.pl", link: "https://allegro.tech", imageUrl: "Allegro.png", width: "90px"}
-    - {name: "Atlassiam", description: "Atlassian", link: "https://www.atlassian.com/", imageUrl: "Atlassian@3x-8.png", width: "90px"}
-    - {name: "Detroit Labs", description: "Detroit Labs", link: "https://www.detroitlabs.com/", imageUrl: "DetroitLabs.png", width: "90px"}
-    - {name: "Drizly", description: "Drizly", link: "https://drizly.com/about-us/e-594c4a6ff3342911", imageUrl: "Drizly@3x-8.png", width: "100px"}
-    - {name: "Slalom", description: "Slalom Consulting", link: "https://www.slalom.com/", imageUrl: "Slalom.png", width: "100px"}
-    - {name: "Webtoons", description: "Webtoons", link: "https://www.webtoons.com/en/", imageUrl: "Webtoons.png", width: "100px"}
-    - {name: "Zeplin", description: "Zeplin", link: "https://zeplin.io", imageUrl: "Zeplin.png", width: "110px"}
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "", description: "", link: "https://www.google.com.ua/intl/en/about/", imageUrl: ""}
+    - {name: "", description: "", link: "http://lviv.gdg.org.ua", imageUrl: ""}
+- 
+  group: "With support of"
+  elements: 
+    - {name: "", description: "", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "", width: "120px"}
+    - {name: "", description: "", link: "http://lviv.gdg.org.ua", imageUrl: "", width: "120px"}
+    - {name: "", description: "", link: "https://github.com/gdg-x", imageUrl: "", width: "120px"}
+- 
+  group: "Information partners"
+  elements: 
+    - {name: "", description: "", link: "https://www.google.com.ua/intl/en/about/", imageUrl: ""}
