@@ -1,25 +1,25 @@
 -
   id: "0"
-  name: "Giorgio"
-  surname: "Natili"
+  name: "Ade"
+  surname: "Yoseman"
   title: "Idea maker, team lead"
   thumbnailUrl: owasp_logo.png
   type: team
   social:
-    - {name: "twitter", link: "https://twitter.com/giorgionatili"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/giorgionatili"}
+    - {name: "twitter", link: "https://twitter.com/johnleedik"}
+    - {name: "github", link: "https://www.github.com/adeyosemanputra"}
 -
   id: "1"
-  name: "Matt"
-  surname: "Dias"
-  title: "Community lead"
+  name: "Prashant"
+  surname: "Kv"
+  title: "CFP Reviewers"
   thumbnailUrl: owasp_logo.png
   type: volunteer
   bio: |
-   Matt Dias is a Senior iOS Engineer at Chewy. His background extends from building iOS apps, using Objective-C and Swift, to building the backends they are fed data from. Over the past year, Matt has been growing the Boston Swift community by co-organizing Learn Swift Boston, where he and many others help developers of all skill levels learn to build software using Swift.
+    Cool Guys.
   social:
-    - {name: "twitter", link: "https://twitter.com/mdiasdev"}
-    - {name: "github", link: "https://github.com/mdiasdev"}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
 -
   id: "2"
   name: "Alicia"
