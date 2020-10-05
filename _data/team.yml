@@ -15,10 +15,7 @@
   title: "CFP Reviewer"
   thumbnailUrl: owasp_logo.png
   type: volunteer
-  bio: 
-    social:
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+  social:[]
 -
   id: "2"
   name: "Prof. Dr. Hoga"
@@ -26,9 +23,7 @@
   title: "Conference Committee"
   thumbnailUrl: profhugo.png
   type: volunteer
-  social:
-      - {name: "twitter", link: ""}
-      - {name: "github", link: ""}
+  social:[]
 -
   id: "3"
   name: "Vina"
@@ -36,18 +31,15 @@
   title: "Conference Committee"
   thumbnailUrl: owasp_logo.png
   type: team
-  social:
-      - {name: "twitter", link: ""}
-      - {name: "github", link: ""}
+  social:[]
+-   
   id: "4"
   name: "Gumux"
   surname: "Hijack"
   title: "Mobile developer"
   thumbnailUrl: owasp_logo.png
   type: volunteer
-  social:
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+  social:[]
 -  
   id: "5"
   name: "Emily"
@@ -55,19 +47,15 @@
   title: "Director of Events"
   thumbnailUrl: owasp_logo.png
   type: team
-  social:
-       - {name: "twitter", link: ""}
-       - {name: "github", link: ""}
--
+  social:[]
+-  
   id: "6"
    name: "Kelly"
   surname: "Santalucia"
   title: "Director of Corporate Support"
   thumbnailUrl: owasp_logo.png
   type: team
-  social:
-        - {name: "twitter", link: ""}
-        - {name: "github", link: ""}
+  social:[]
 -
   id: "7"
   name: "Dawn"
@@ -91,9 +79,7 @@
   title: "Speakers liaison"
   thumbnailUrl:  owasp_logo.png
   type: volunteer
-  social:
-       - {name: "twitter", link: ""}
-       - {name: "github", link: ""}
+  social:[]
 -
   id: "10"
   name: "RB. Sundoko Haryo"
@@ -125,9 +111,7 @@
   title: "Team Player"
   thumbnailUrl:  owasp_logo.png
   type: volunteer
-  social:
-        - {name: "twitter", link: ""}
-        - {name: "github", link: ""}
+  social:[]
 -
   id: "16"
   name: "Bimo"
@@ -142,5 +126,5 @@
   surname: "Gunawan"
   title: "Team Player"
   thumbnailUrl:  owasp_logo.png
-  type: volunteer
+  type: team
   social: []
