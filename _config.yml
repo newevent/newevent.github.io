@@ -200,7 +200,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Virtual Appsec Indonesia 2020 is is a community-driven conference, and administratively supported by OWASP"<br>"We have cool team to running this conference succesfully"<br>
+aboutUs: "Virtual Appsec Indonesia 2020 is is a community-driven conference, and administratively supported by OWASP. We have cool team to running this conference succesfully"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
