@@ -1,4 +1,5 @@
 # Project Zeppelin / GDG DevFest 2014 site template
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/774a1f561a9944e3bfd5f5eeb10c7814)](https://www.codacy.com/gh/newevent/newevent.github.io/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=newevent/newevent.github.io&amp;utm_campaign=Badge_Grade)
 
 ### About
 Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes.
