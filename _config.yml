@@ -41,7 +41,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: ""
-c4sponsorsUrl: ""
+c4sponsorsUrl: "https://github.com/OWASP/www-chapter-jakarta/blob/master/AppSec%20Indonesia%202020%20sponsorships.pdf"
 
 
 # Navigation
@@ -66,7 +66,7 @@ typeoutTextValues: '"", "Cyber Security","Conference","Indonesia","WorldWide"'
 typeoutFallback: "Conference"
 heroButtons:
  - {link: "https://s.id/owaspid-cfp-2020", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "https://github.com/OWASP/www-chapter-jakarta/blob/master/AppSec%20Indonesia%202020%20sponsorships.pdf", text: "Become a Sponsor"}
 
 # About Block
 aboutTitle: "About OWASP AppSec Indonesia Conference 2020"
