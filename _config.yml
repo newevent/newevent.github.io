@@ -48,7 +48,7 @@ c4sponsorsUrl: "https://github.com/OWASP/www-chapter-jakarta/blob/master/AppSec%
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "https://appsec2020.owasp.or.id/blog/call-for-papers", text: "Submit"}
- - {permalink: "/schedule", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "https://github.com/OWASP/www-chapter-jakarta/blob/master/AppSec%20Indonesia%202020%20sponsorships.pdf", text: "Sponsors"}
