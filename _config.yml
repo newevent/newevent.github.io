@@ -47,7 +47,7 @@ c4sponsorsUrl: "https://github.com/OWASP/www-chapter-jakarta/blob/master/AppSec%
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "https://s.id/owaspid-cfp-2020", text: "Submit"}
+ - {permalink: "https://appsec2020.owasp.or.id/blog/call-for-papers", text: "Submit"}
  - {permalink: "", text: "Register"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
